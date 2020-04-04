@@ -87,7 +87,7 @@ public class TestBase {
 
 
             }
-            //log.debug("Test Execution Completed!!");
+            log.debug("Test Execution Completed!!");
 
 
          }
