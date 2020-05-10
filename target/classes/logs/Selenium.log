@@ -1,10 +1,18 @@
-21:11:20,940 DEBUG devpinoyLogger<strong>{1}</strong>:48 - Google Chrome Launched!!
-21:11:28,188 DEBUG devpinoyLogger<strong>{1}</strong>:58 - Navigated to: https://surfweb.staging.travel.theculturetrip.com/ctweb/
-21:11:34,741 DEBUG devpinoyLogger<strong>{1}</strong>:60 - Window Maximised
-21:11:34,849 DEBUG devpinoyLogger<strong>{1}</strong>:12 - Inside Login Test
-21:11:35,065 DEBUG devpinoyLogger<strong>{1}</strong>:14 - Detination Entered
-21:11:35,180 DEBUG devpinoyLogger<strong>{1}</strong>:16 - Hotel ID Entered
-21:11:35,293 DEBUG devpinoyLogger<strong>{1}</strong>:18 - From Date Enetered
-21:11:38,460 DEBUG devpinoyLogger<strong>{1}</strong>:21 - To Date Enetered
-21:11:41,557 DEBUG devpinoyLogger<strong>{1}</strong>:24 - Pax Combination Enetered
-21:11:51,485 DEBUG devpinoyLogger<strong>{1}</strong>:27 - Submit Button Clikced
+11:47:33,218 DEBUG devpinoyLogger<strong>{1}</strong>:48 - Google Chrome Launched!!
+11:47:36,997 DEBUG devpinoyLogger<strong>{1}</strong>:58 - Navigated to: https://surfweb.staging.travel.theculturetrip.com/ctweb/
+11:47:41,214 DEBUG devpinoyLogger<strong>{1}</strong>:60 - Window Maximised
+11:47:41,495 DEBUG devpinoyLogger<strong>{1}</strong>:14 - Inside Login Test
+11:47:41,959 DEBUG devpinoyLogger<strong>{1}</strong>:16 - Detination Entered
+11:47:42,237 DEBUG devpinoyLogger<strong>{1}</strong>:18 - Hotel ID Entered
+11:47:42,438 DEBUG devpinoyLogger<strong>{1}</strong>:20 - From Date Enetered
+11:47:45,569 DEBUG devpinoyLogger<strong>{1}</strong>:23 - To Date Enetered
+11:47:48,679 DEBUG devpinoyLogger<strong>{1}</strong>:26 - Pax Combination Enetered
+11:48:16,034 DEBUG devpinoyLogger<strong>{1}</strong>:29 - Submit Button Clikced
+11:48:16,107 DEBUG devpinoyLogger<strong>{1}</strong>:32 - Hotel Search successfully Exceuted with Refundability
+11:48:16,422 DEBUG devpinoyLogger<strong>{1}</strong>:14 - Firsn Name Entered
+11:48:16,628 DEBUG devpinoyLogger<strong>{1}</strong>:16 - Last Name Entered
+11:48:16,938 DEBUG devpinoyLogger<strong>{1}</strong>:18 - Email Entered
+11:48:17,289 DEBUG devpinoyLogger<strong>{1}</strong>:20 - Telephone Number Entered
+11:48:22,635 DEBUG devpinoyLogger<strong>{1}</strong>:23 - Sumbit Button Entered Entered
+11:48:37,642 DEBUG devpinoyLogger<strong>{1}</strong>:26 - Navigated to the payment page
+11:48:39,139 DEBUG devpinoyLogger<strong>{1}</strong>:90 - Test Execution Completed!!

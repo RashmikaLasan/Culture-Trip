@@ -6,6 +6,9 @@
         <classes>
             <class name="com.ct.base.TestBase"/>
             <class name="com.ct.testcases.FirstPage"/>
+             <class name="com.ct.testcases.PassengerPage"/>
+             <class name="com.ct.testcases.PaymentPage"/>
+
         </classes>
     </test>
 
